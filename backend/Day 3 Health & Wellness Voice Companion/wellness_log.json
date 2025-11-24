@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-11-24T09:11:45.902196",
+    "mood_summary": "sad and depressed",
+    "energy_level": "low",
+    "objectives": [
+      "play game"
+    ],
+    "agent_summary": "The user is feeling sad and depressed with low energy. Their objective for today is to play a game."
+  },
+  {
+    "timestamp": "2025-11-24T09:13:35.457659",
+    "mood_summary": "happy",
+    "energy_level": "high",
+    "objectives": [
+      "complete my study"
+    ],
+    "agent_summary": "The user reported feeling happy and having high energy. Their main objective for the day is to complete their study."
+  }
+]
