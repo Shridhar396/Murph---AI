@@ -1,0 +1,20 @@
+{
+  "last_mode": "quiz",
+  "last_concept": "variables",
+  "mastery": {
+    "loops": {
+      "times_explained": 1,
+      "times_quizzed": 0,
+      "times_taught_back": 0,
+      "last_score": null,
+      "avg_score": null
+    },
+    "variables": {
+      "times_explained": 2,
+      "times_quizzed": 2,
+      "times_taught_back": 3,
+      "last_score": 100,
+      "avg_score": 67.5
+    }
+  }
+}
