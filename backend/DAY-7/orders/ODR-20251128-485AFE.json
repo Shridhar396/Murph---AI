@@ -1,0 +1,36 @@
+{
+    "order_id": "ODR-20251128-485AFE",
+    "customer_name": "Shridhar",
+    "delivery_address": "Sec 10 , kharghar",
+    "order_timestamp": "2025-11-28T09:20:48.904758",
+    "status": "Placed",
+    "items": [
+        {
+            "id": "T003",
+            "name": "Dried Spaghetti Pasta",
+            "price_per_unit": 95.0,
+            "quantity_ordered": 1,
+            "unit": "packet (500g)",
+            "line_total": 95.0
+        },
+        {
+            "id": "T002",
+            "name": "Tomato Pasta Sauce (Marinara)",
+            "price_per_unit": 150.0,
+            "quantity_ordered": 1,
+            "unit": "jar (400g)",
+            "line_total": 150.0
+        },
+        {
+            "id": "G006",
+            "name": "Tomato",
+            "price_per_unit": 65.0,
+            "quantity_ordered": 0.5,
+            "unit": "kilogram",
+            "line_total": 32.5
+        }
+    ],
+    "subtotal": 277.5,
+    "delivery_fee": 40.0,
+    "grand_total": 317.5
+}
